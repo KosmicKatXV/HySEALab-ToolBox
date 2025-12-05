@@ -13,6 +13,3 @@ Welcome! In this folder you will find a set of tools the community has been deve
 2. Create new folder following the current structure
 3. Add your tools to the new folder
 4. Request a merge 
-
-
-eoeoeo
