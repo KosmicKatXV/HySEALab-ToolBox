@@ -1,3 +1,2 @@
 echo 'hello world'
-
-exit
+echo 'goodbye!'
